@@ -1,7 +1,8 @@
 ###################################################################################
 ## Seabird assemblage at the mouth of Amazon River and its relationship with 
 ## environmental characteristics
-## Journal of Sea Research (2019), 155, 101826
+##
+## Daudt et al. (2019) Journal of Sea Research, 155, 101826
 ## 
 ## Supplementary material (S1) – R code
 ##
